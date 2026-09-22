@@ -1,0 +1,10 @@
+{
+  "description": "Stream content seamlessly with a user-friendly media player that supports M3U/M3U8 playlists, offering a premium viewing experience across devices.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
